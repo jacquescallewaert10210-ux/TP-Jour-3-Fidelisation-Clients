@@ -1,0 +1,1201 @@
+client_id,ville,age,canal_acquisition,date_inscription
+C0001,Bordeaux,51,Publicité en ligne,2023-06-14
+C0002,Paris,39,Moteur de recherche,2022-01-28
+C0003,Paris,27,Réseaux sociaux,2022-02-12
+C0004,Paris,18,Publicité en ligne,2023-04-16
+C0005,Lille,36,Bouche-à-oreille,2024-03-27
+C0006,Marseille,19,Publicité en ligne,2024-08-25
+C0007,Paris,44,Réseaux sociaux,2022-04-06
+C0008,Marseille,50,Réseaux sociaux,2022-09-25
+C0009,Paris,28,Bouche-à-oreille,2023-04-07
+C0010,Lille,42,Bouche-à-oreille,2023-09-21
+C0011,Marseille,29,Moteur de recherche,2024-12-16
+C0012,Lyon,30,Moteur de recherche,2024-01-20
+C0013,Lyon,47,Moteur de recherche,2023-08-13
+C0014,Toulouse,38,Moteur de recherche,2022-03-08
+C0015,Lyon,53,Réseaux sociaux,2022-03-30
+C0016,Paris,26,Réseaux sociaux,2022-06-17
+C0017,Paris,44,Réseaux sociaux,2023-12-25
+C0018,Strasbourg,39,Publicité en ligne,2022-12-29
+C0019,Nantes,42,Réseaux sociaux,2022-09-21
+C0020,Lille,27,Réseaux sociaux,2024-01-04
+C0021,Paris,37,Moteur de recherche,2024-06-11
+C0022,Strasbourg,31,Réseaux sociaux,2023-04-26
+C0023,Bordeaux,22,Réseaux sociaux,2024-08-23
+C0024,Lille,46,Moteur de recherche,2024-03-14
+C0025,Marseille,40,Réseaux sociaux,2024-02-24
+C0026,Paris,45,Moteur de recherche,2024-08-08
+C0027,Paris,56,Bouche-à-oreille,2022-07-21
+C0028,Nantes,49,Réseaux sociaux,2024-04-10
+C0029,Marseille,34,Bouche-à-oreille,2024-11-14
+C0030,Paris,42,Bouche-à-oreille,2024-12-22
+C0031,Lyon,31,Publicité en ligne,2023-09-25
+C0032,Toulouse,38,Moteur de recherche,2024-04-06
+C0033,Paris,31,Moteur de recherche,2024-08-31
+C0034,Nantes,57,Moteur de recherche,2024-07-22
+C0035,Bordeaux,42,Publicité en ligne,2024-09-10
+C0036,Lille,29,Réseaux sociaux,2024-06-30
+C0037,Marseille,52,Bouche-à-oreille,2023-02-22
+C0038,Toulouse,18,Moteur de recherche,2024-03-10
+C0039,Toulouse,18,Publicité en ligne,2023-03-26
+C0040,Toulouse,42,Réseaux sociaux,2024-05-27
+C0041,Paris,33,Réseaux sociaux,2024-06-06
+C0042,Lyon,41,Moteur de recherche,2024-10-20
+C0043,Paris,22,Moteur de recherche,2023-10-07
+C0044,Marseille,38,Moteur de recherche,2023-06-05
+C0045,Lyon,56,Réseaux sociaux,2022-07-01
+C0046,Paris,42,Réseaux sociaux,2023-11-30
+C0047,Paris,40,Moteur de recherche,2023-09-13
+C0048,Toulouse,27,Réseaux sociaux,2023-07-18
+C0049,Paris,33,Bouche-à-oreille,2024-01-11
+C0050,Strasbourg,18,Réseaux sociaux,2024-07-20
+C0051,Toulouse,35,Réseaux sociaux,2022-06-12
+C0052,Lyon,42,Réseaux sociaux,2023-04-18
+C0053,Toulouse,19,Moteur de recherche,2024-03-01
+C0054,Paris,30,Moteur de recherche,2024-06-16
+C0055,Strasbourg,24,Moteur de recherche,2024-05-02
+C0056,Marseille,26,Bouche-à-oreille,2024-05-25
+C0057,Bordeaux,33,Réseaux sociaux,2024-07-25
+C0058,Paris,18,Publicité en ligne,2024-11-19
+C0059,Marseille,39,Réseaux sociaux,2023-10-28
+C0060,Marseille,41,Réseaux sociaux,2022-09-30
+C0061,Strasbourg,35,Moteur de recherche,2023-09-10
+C0062,Toulouse,18,Réseaux sociaux,2024-02-17
+C0063,Marseille,26,Moteur de recherche,2022-04-21
+C0064,Paris,53,Moteur de recherche,2024-04-08
+C0065,Lyon,18,Publicité en ligne,2023-08-19
+C0066,Marseille,34,Moteur de recherche,2024-10-22
+C0067,Marseille,24,Moteur de recherche,2022-08-20
+C0068,Paris,48,Moteur de recherche,2024-09-20
+C0069,Bordeaux,24,Réseaux sociaux,2023-05-06
+C0070,Nantes,37,Réseaux sociaux,2023-09-21
+C0071,Paris,45,Moteur de recherche,2023-12-24
+C0072,Toulouse,60,Bouche-à-oreille,2023-09-27
+C0073,Paris,30,Réseaux sociaux,2024-09-16
+C0074,Lille,43,Moteur de recherche,2022-07-03
+C0075,Paris,20,Publicité en ligne,2024-03-10
+C0076,Lille,52,Publicité en ligne,2024-12-03
+C0077,Lille,29,Moteur de recherche,2022-08-30
+C0078,Bordeaux,31,Moteur de recherche,2022-10-07
+C0079,Paris,38,Publicité en ligne,2023-06-05
+C0080,Nantes,19,Publicité en ligne,2024-03-04
+C0081,Paris,35,Réseaux sociaux,2024-11-16
+C0082,Paris,50,Bouche-à-oreille,2024-05-21
+C0083,Toulouse,36,Réseaux sociaux,2024-05-19
+C0084,Lyon,19,Publicité en ligne,2023-04-29
+C0085,Bordeaux,31,Réseaux sociaux,2023-12-08
+C0086,Bordeaux,41,Réseaux sociaux,2022-08-20
+C0087,Lyon,18,Réseaux sociaux,2023-05-23
+C0088,Strasbourg,25,Moteur de recherche,2022-07-26
+C0089,Paris,43,Réseaux sociaux,2022-01-30
+C0090,Marseille,35,Réseaux sociaux,2024-07-26
+C0091,Paris,43,Moteur de recherche,2024-05-31
+C0092,Strasbourg,60,Moteur de recherche,2023-07-14
+C0093,Paris,44,Publicité en ligne,2022-01-16
+C0094,Paris,46,Bouche-à-oreille,2022-04-09
+C0095,Marseille,71,Moteur de recherche,2022-05-03
+C0096,Strasbourg,29,Réseaux sociaux,2024-02-25
+C0097,Nantes,22,Réseaux sociaux,2022-08-11
+C0098,Bordeaux,43,Bouche-à-oreille,2022-10-01
+C0099,Nantes,37,Réseaux sociaux,2024-07-31
+C0100,Nantes,32,Moteur de recherche,2024-08-17
+C0101,Marseille,26,Bouche-à-oreille,2024-04-15
+C0102,Lyon,66,Bouche-à-oreille,2022-12-05
+C0103,Bordeaux,42,Moteur de recherche,2023-09-28
+C0104,Lille,29,Moteur de recherche,2022-08-08
+C0105,Lyon,49,Moteur de recherche,2024-07-28
+C0106,Paris,37,Publicité en ligne,2022-04-03
+C0107,Bordeaux,29,Réseaux sociaux,2024-03-26
+C0108,Paris,39,Réseaux sociaux,2023-07-15
+C0109,Strasbourg,22,Moteur de recherche,2024-04-09
+C0110,Paris,36,Réseaux sociaux,2023-05-09
+C0111,Paris,61,Moteur de recherche,2022-06-23
+C0112,Nantes,38,Réseaux sociaux,2024-04-02
+C0113,Paris,33,Bouche-à-oreille,2023-11-23
+C0114,Paris,32,Publicité en ligne,2023-05-24
+C0115,Toulouse,33,Moteur de recherche,2023-02-13
+C0116,Nantes,35,Publicité en ligne,2023-01-12
+C0117,Paris,27,Réseaux sociaux,2023-06-11
+C0118,Lyon,49,Moteur de recherche,2022-10-14
+C0119,Bordeaux,18,Réseaux sociaux,2022-11-06
+C0120,Strasbourg,48,Publicité en ligne,2022-11-01
+C0121,Marseille,33,Publicité en ligne,2022-01-14
+C0122,Paris,43,Bouche-à-oreille,2024-10-12
+C0123,Paris,24,Publicité en ligne,2022-09-17
+C0124,Paris,54,Bouche-à-oreille,2022-06-30
+C0125,Paris,47,Réseaux sociaux,2022-06-15
+C0126,Lille,50,Bouche-à-oreille,2024-12-18
+C0127,Paris,20,Moteur de recherche,2023-06-07
+C0128,Marseille,48,Moteur de recherche,2022-12-24
+C0129,Lille,43,Moteur de recherche,2023-03-19
+C0130,Toulouse,18,Réseaux sociaux,2022-04-07
+C0131,Paris,32,Réseaux sociaux,2022-12-10
+C0132,Bordeaux,36,Réseaux sociaux,2022-09-30
+C0133,Lille,39,Réseaux sociaux,2024-05-29
+C0134,Lille,40,Moteur de recherche,2022-03-05
+C0135,Paris,41,Bouche-à-oreille,2023-04-11
+C0136,Paris,56,Moteur de recherche,2024-05-15
+C0137,Strasbourg,53,Moteur de recherche,2024-07-01
+C0138,Lyon,18,Moteur de recherche,2023-07-16
+C0139,Lyon,34,Moteur de recherche,2022-09-01
+C0140,Marseille,30,Réseaux sociaux,2023-01-05
+C0141,Lille,18,Publicité en ligne,2022-09-01
+C0142,Strasbourg,33,Réseaux sociaux,2023-12-26
+C0143,Paris,53,Publicité en ligne,2022-11-17
+C0144,Strasbourg,25,Publicité en ligne,2023-11-22
+C0145,Paris,42,Moteur de recherche,2023-12-19
+C0146,Toulouse,27,Publicité en ligne,2024-10-26
+C0147,Toulouse,24,Réseaux sociaux,2023-02-10
+C0148,Paris,56,Bouche-à-oreille,2024-11-18
+C0149,Paris,31,Publicité en ligne,2023-03-15
+C0150,Lyon,44,Publicité en ligne,2024-01-16
+C0151,Strasbourg,18,Moteur de recherche,2023-12-26
+C0152,Toulouse,60,Publicité en ligne,2024-06-14
+C0153,Strasbourg,45,Bouche-à-oreille,2023-05-29
+C0154,Bordeaux,36,Moteur de recherche,2024-05-17
+C0155,Marseille,45,Publicité en ligne,2023-01-25
+C0156,Bordeaux,21,Publicité en ligne,2023-06-22
+C0157,Paris,52,Moteur de recherche,2023-07-02
+C0158,Paris,34,Bouche-à-oreille,2024-02-11
+C0159,Bordeaux,36,Moteur de recherche,2023-11-09
+C0160,Bordeaux,32,Moteur de recherche,2022-03-27
+C0161,Paris,25,Réseaux sociaux,2024-06-04
+C0162,Marseille,40,Réseaux sociaux,2024-04-10
+C0163,Toulouse,41,Publicité en ligne,2022-04-25
+C0164,Nantes,46,Moteur de recherche,2024-11-19
+C0165,Toulouse,38,Moteur de recherche,2023-12-25
+C0166,Lyon,38,Réseaux sociaux,2022-04-04
+C0167,Lyon,33,Moteur de recherche,2023-06-23
+C0168,Lyon,65,Publicité en ligne,2024-07-04
+C0169,Lille,19,Bouche-à-oreille,2022-11-03
+C0170,Nantes,47,Réseaux sociaux,2024-10-18
+C0171,Marseille,54,Moteur de recherche,2023-04-04
+C0172,Paris,28,Moteur de recherche,2022-09-05
+C0173,Paris,65,Moteur de recherche,2023-01-26
+C0174,Bordeaux,50,Moteur de recherche,2023-07-29
+C0175,Bordeaux,50,Moteur de recherche,2024-01-24
+C0176,Paris,38,Moteur de recherche,2024-10-13
+C0177,Paris,35,Moteur de recherche,2022-08-02
+C0178,Toulouse,35,Moteur de recherche,2024-11-17
+C0179,Paris,43,Moteur de recherche,2023-08-01
+C0180,Bordeaux,55,Publicité en ligne,2022-05-21
+C0181,Lyon,40,Publicité en ligne,2024-10-11
+C0182,Paris,21,Réseaux sociaux,2023-01-18
+C0183,Strasbourg,48,Publicité en ligne,2023-11-11
+C0184,Paris,49,Publicité en ligne,2024-02-04
+C0185,Paris,40,Réseaux sociaux,2022-01-15
+C0186,Paris,47,Moteur de recherche,2022-08-31
+C0187,Paris,29,Réseaux sociaux,2024-01-22
+C0188,Paris,27,Publicité en ligne,2022-12-22
+C0189,Paris,22,Réseaux sociaux,2022-01-11
+C0190,Paris,18,Moteur de recherche,2022-01-26
+C0191,Paris,35,Réseaux sociaux,2024-06-23
+C0192,Toulouse,37,Moteur de recherche,2022-06-18
+C0193,Lille,33,Bouche-à-oreille,2022-04-20
+C0194,Lyon,18,Moteur de recherche,2023-09-08
+C0195,Lyon,23,Publicité en ligne,2022-05-11
+C0196,Marseille,51,Bouche-à-oreille,2023-12-17
+C0197,Nantes,30,Publicité en ligne,2023-08-19
+C0198,Nantes,36,Réseaux sociaux,2023-12-12
+C0199,Paris,21,Publicité en ligne,2023-06-23
+C0200,Paris,49,Réseaux sociaux,2024-05-02
+C0201,Paris,36,Moteur de recherche,2023-12-08
+C0202,Paris,41,Publicité en ligne,2023-03-31
+C0203,Toulouse,66,Publicité en ligne,2022-01-17
+C0204,Lyon,56,Moteur de recherche,2022-10-27
+C0205,Paris,34,Moteur de recherche,2022-05-24
+C0206,Lyon,31,Publicité en ligne,2022-01-18
+C0207,Marseille,34,Publicité en ligne,2022-10-27
+C0208,Paris,44,Moteur de recherche,2022-08-15
+C0209,Nantes,37,Bouche-à-oreille,2022-03-26
+C0210,Paris,27,Réseaux sociaux,2022-12-09
+C0211,Strasbourg,50,Réseaux sociaux,2023-07-09
+C0212,Paris,37,Moteur de recherche,2022-07-15
+C0213,Nantes,66,Bouche-à-oreille,2022-10-27
+C0214,Nantes,33,Réseaux sociaux,2022-01-23
+C0215,Strasbourg,53,Réseaux sociaux,2022-02-25
+C0216,Bordeaux,36,Réseaux sociaux,2022-06-22
+C0217,Bordeaux,50,Publicité en ligne,2023-05-11
+C0218,Toulouse,23,Réseaux sociaux,2023-12-31
+C0219,Bordeaux,28,Moteur de recherche,2024-05-13
+C0220,Paris,44,Bouche-à-oreille,2023-11-21
+C0221,Marseille,44,Réseaux sociaux,2023-11-07
+C0222,Marseille,38,Moteur de recherche,2024-10-21
+C0223,Nantes,23,Moteur de recherche,2022-10-07
+C0224,Marseille,22,Publicité en ligne,2024-05-23
+C0225,Lyon,18,Réseaux sociaux,2024-10-22
+C0226,Toulouse,18,Moteur de recherche,2023-09-14
+C0227,Paris,33,Réseaux sociaux,2024-07-09
+C0228,Paris,52,Publicité en ligne,2022-05-31
+C0229,Marseille,38,Publicité en ligne,2024-08-20
+C0230,Lyon,18,Réseaux sociaux,2023-09-10
+C0231,Paris,36,Moteur de recherche,2022-08-31
+C0232,Lyon,36,Bouche-à-oreille,2022-03-09
+C0233,Lyon,57,Réseaux sociaux,2024-02-28
+C0234,Lyon,18,Réseaux sociaux,2023-04-17
+C0235,Lyon,33,Moteur de recherche,2022-12-06
+C0236,Lille,52,Réseaux sociaux,2023-03-04
+C0237,Paris,37,Réseaux sociaux,2024-12-21
+C0238,Strasbourg,45,Moteur de recherche,2023-04-14
+C0239,Nantes,33,Réseaux sociaux,2022-03-28
+C0240,Marseille,42,Moteur de recherche,2022-11-03
+C0241,Lyon,47,Publicité en ligne,2022-06-09
+C0242,Marseille,28,Moteur de recherche,2024-01-21
+C0243,Nantes,43,Réseaux sociaux,2024-05-26
+C0244,Lille,22,Publicité en ligne,2024-07-09
+C0245,Bordeaux,36,Réseaux sociaux,2023-11-25
+C0246,Marseille,40,Publicité en ligne,2024-04-21
+C0247,Toulouse,25,Réseaux sociaux,2023-04-02
+C0248,Paris,38,Publicité en ligne,2023-11-19
+C0249,Lille,25,Réseaux sociaux,2022-04-28
+C0250,Paris,19,Réseaux sociaux,2023-08-13
+C0251,Lille,34,Moteur de recherche,2023-09-03
+C0252,Nantes,19,Réseaux sociaux,2022-02-04
+C0253,Paris,36,Réseaux sociaux,2023-08-24
+C0254,Toulouse,24,Publicité en ligne,2024-03-02
+C0255,Paris,47,Publicité en ligne,2023-02-07
+C0256,Lille,18,Réseaux sociaux,2023-08-20
+C0257,Paris,31,Bouche-à-oreille,2022-11-10
+C0258,Strasbourg,31,Publicité en ligne,2022-10-24
+C0259,Paris,54,Publicité en ligne,2022-05-22
+C0260,Strasbourg,42,Publicité en ligne,2022-12-25
+C0261,Bordeaux,35,Moteur de recherche,2024-05-29
+C0262,Toulouse,44,Moteur de recherche,2024-10-21
+C0263,Bordeaux,18,Moteur de recherche,2023-11-28
+C0264,Bordeaux,37,Bouche-à-oreille,2023-11-15
+C0265,Strasbourg,56,Réseaux sociaux,2023-11-04
+C0266,Paris,34,Réseaux sociaux,2023-06-06
+C0267,Toulouse,33,Réseaux sociaux,2023-04-09
+C0268,Paris,45,Bouche-à-oreille,2023-11-11
+C0269,Toulouse,49,Moteur de recherche,2024-05-08
+C0270,Paris,18,Moteur de recherche,2023-03-30
+C0271,Toulouse,18,Publicité en ligne,2023-09-12
+C0272,Toulouse,41,Bouche-à-oreille,2023-05-30
+C0273,Marseille,23,Réseaux sociaux,2022-11-09
+C0274,Marseille,54,Publicité en ligne,2022-11-14
+C0275,Bordeaux,34,Bouche-à-oreille,2022-03-28
+C0276,Bordeaux,18,Réseaux sociaux,2023-04-27
+C0277,Marseille,23,Publicité en ligne,2024-02-20
+C0278,Toulouse,18,Réseaux sociaux,2024-01-21
+C0279,Strasbourg,35,Moteur de recherche,2024-12-15
+C0280,Paris,36,Moteur de recherche,2022-02-13
+C0281,Paris,27,Réseaux sociaux,2024-04-12
+C0282,Paris,45,Réseaux sociaux,2024-05-20
+C0283,Lille,46,Réseaux sociaux,2023-04-23
+C0284,Lyon,30,Réseaux sociaux,2022-11-06
+C0285,Bordeaux,18,Moteur de recherche,2023-01-27
+C0286,Lille,39,Réseaux sociaux,2024-01-18
+C0287,Lyon,39,Réseaux sociaux,2024-08-02
+C0288,Nantes,42,Publicité en ligne,2023-12-05
+C0289,Bordeaux,50,Publicité en ligne,2023-07-18
+C0290,Paris,24,Moteur de recherche,2023-12-16
+C0291,Lyon,62,Bouche-à-oreille,2022-03-19
+C0292,Lyon,26,Moteur de recherche,2023-10-28
+C0293,Paris,47,Publicité en ligne,2022-02-16
+C0294,Paris,18,Réseaux sociaux,2024-11-16
+C0295,Strasbourg,27,Publicité en ligne,2024-08-31
+C0296,Marseille,56,Bouche-à-oreille,2023-07-11
+C0297,Lyon,35,Publicité en ligne,2023-02-14
+C0298,Lille,48,Moteur de recherche,2024-03-12
+C0299,Toulouse,41,Moteur de recherche,2023-11-30
+C0300,Strasbourg,31,Réseaux sociaux,2024-02-12
+C0301,Bordeaux,54,Moteur de recherche,2023-07-19
+C0302,Marseille,35,Publicité en ligne,2022-09-16
+C0303,Lyon,18,Bouche-à-oreille,2022-03-22
+C0304,Strasbourg,28,Moteur de recherche,2022-11-07
+C0305,Lille,39,Réseaux sociaux,2023-08-03
+C0306,Strasbourg,43,Moteur de recherche,2023-04-10
+C0307,Paris,18,Réseaux sociaux,2023-07-09
+C0308,Nantes,23,Réseaux sociaux,2022-11-01
+C0309,Toulouse,25,Réseaux sociaux,2024-10-23
+C0310,Paris,34,Publicité en ligne,2023-02-06
+C0311,Toulouse,18,Réseaux sociaux,2024-07-15
+C0312,Lille,24,Réseaux sociaux,2023-03-05
+C0313,Paris,23,Réseaux sociaux,2023-05-01
+C0314,Marseille,47,Publicité en ligne,2023-10-24
+C0315,Bordeaux,48,Publicité en ligne,2022-10-16
+C0316,Paris,30,Réseaux sociaux,2022-08-29
+C0317,Marseille,27,Réseaux sociaux,2023-02-20
+C0318,Marseille,40,Moteur de recherche,2024-05-30
+C0319,Lyon,22,Réseaux sociaux,2022-06-08
+C0320,Nantes,24,Moteur de recherche,2023-04-25
+C0321,Bordeaux,27,Moteur de recherche,2024-01-06
+C0322,Paris,30,Bouche-à-oreille,2024-02-13
+C0323,Strasbourg,18,Réseaux sociaux,2023-04-21
+C0324,Nantes,40,Moteur de recherche,2022-03-31
+C0325,Paris,41,Réseaux sociaux,2022-01-18
+C0326,Nantes,19,Bouche-à-oreille,2023-05-30
+C0327,Paris,38,Bouche-à-oreille,2024-06-05
+C0328,Strasbourg,35,Publicité en ligne,2022-01-31
+C0329,Lille,42,Moteur de recherche,2024-08-29
+C0330,Lille,32,Réseaux sociaux,2024-01-11
+C0331,Paris,21,Publicité en ligne,2022-01-09
+C0332,Nantes,23,Publicité en ligne,2023-01-12
+C0333,Paris,32,Réseaux sociaux,2022-08-30
+C0334,Paris,50,Moteur de recherche,2024-11-05
+C0335,Paris,18,Moteur de recherche,2023-08-31
+C0336,Bordeaux,42,Publicité en ligne,2022-12-21
+C0337,Paris,52,Publicité en ligne,2022-11-01
+C0338,Nantes,36,Moteur de recherche,2023-09-10
+C0339,Lille,45,Moteur de recherche,2022-01-06
+C0340,Paris,24,Réseaux sociaux,2022-10-09
+C0341,Paris,31,Réseaux sociaux,2022-07-01
+C0342,Paris,18,Réseaux sociaux,2023-11-11
+C0343,Toulouse,18,Publicité en ligne,2024-01-03
+C0344,Bordeaux,49,Moteur de recherche,2023-05-27
+C0345,Paris,26,Moteur de recherche,2022-06-03
+C0346,Nantes,27,Réseaux sociaux,2023-02-10
+C0347,Paris,18,Réseaux sociaux,2024-07-11
+C0348,Bordeaux,21,Moteur de recherche,2022-08-12
+C0349,Strasbourg,30,Réseaux sociaux,2022-06-28
+C0350,Bordeaux,23,Réseaux sociaux,2022-05-03
+C0351,Lille,43,Publicité en ligne,2024-06-13
+C0352,Nantes,37,Réseaux sociaux,2022-05-12
+C0353,Paris,42,Moteur de recherche,2023-09-29
+C0354,Paris,41,Moteur de recherche,2024-12-29
+C0355,Paris,57,Publicité en ligne,2023-12-04
+C0356,Marseille,19,Réseaux sociaux,2023-03-28
+C0357,Bordeaux,37,Publicité en ligne,2022-08-15
+C0358,Toulouse,52,Bouche-à-oreille,2022-01-03
+C0359,Nantes,53,Moteur de recherche,2022-06-20
+C0360,Paris,21,Moteur de recherche,2024-11-09
+C0361,Lille,34,Publicité en ligne,2022-06-07
+C0362,Paris,54,Moteur de recherche,2022-01-22
+C0363,Paris,44,Moteur de recherche,2024-06-12
+C0364,Lille,40,Moteur de recherche,2023-04-04
+C0365,Strasbourg,29,Réseaux sociaux,2023-01-26
+C0366,Toulouse,27,Réseaux sociaux,2024-02-25
+C0367,Paris,41,Moteur de recherche,2023-07-27
+C0368,Toulouse,29,Réseaux sociaux,2024-09-28
+C0369,Paris,37,Moteur de recherche,2023-05-28
+C0370,Nantes,39,Moteur de recherche,2024-02-20
+C0371,Lille,30,Bouche-à-oreille,2024-08-20
+C0372,Paris,38,Réseaux sociaux,2023-05-23
+C0373,Paris,73,Moteur de recherche,2022-11-08
+C0374,Paris,18,Moteur de recherche,2024-12-03
+C0375,Strasbourg,36,Réseaux sociaux,2022-09-06
+C0376,Marseille,23,Réseaux sociaux,2022-02-13
+C0377,Bordeaux,39,Réseaux sociaux,2023-09-26
+C0378,Toulouse,33,Réseaux sociaux,2024-12-16
+C0379,Toulouse,41,Réseaux sociaux,2022-04-05
+C0380,Paris,52,Moteur de recherche,2024-07-19
+C0381,Strasbourg,40,Moteur de recherche,2024-06-28
+C0382,Lyon,46,Réseaux sociaux,2024-10-14
+C0383,Toulouse,18,Réseaux sociaux,2023-04-07
+C0384,Lille,51,Réseaux sociaux,2022-10-06
+C0385,Toulouse,43,Moteur de recherche,2023-07-15
+C0386,Strasbourg,45,Réseaux sociaux,2022-06-05
+C0387,Paris,23,Moteur de recherche,2024-07-11
+C0388,Marseille,22,Réseaux sociaux,2023-12-28
+C0389,Lyon,34,Réseaux sociaux,2023-06-14
+C0390,Marseille,38,Bouche-à-oreille,2023-07-19
+C0391,Paris,35,Réseaux sociaux,2024-02-19
+C0392,Paris,45,Réseaux sociaux,2023-07-27
+C0393,Paris,18,Réseaux sociaux,2024-07-08
+C0394,Lyon,50,Bouche-à-oreille,2024-10-09
+C0395,Lyon,38,Moteur de recherche,2024-11-06
+C0396,Toulouse,36,Moteur de recherche,2023-11-10
+C0397,Toulouse,20,Bouche-à-oreille,2024-03-24
+C0398,Lyon,38,Réseaux sociaux,2022-12-07
+C0399,Lyon,18,Bouche-à-oreille,2022-02-11
+C0400,Paris,40,Réseaux sociaux,2023-03-15
+C0401,Toulouse,20,Moteur de recherche,2024-08-12
+C0402,Lyon,39,Moteur de recherche,2022-05-27
+C0403,Paris,37,Moteur de recherche,2023-08-21
+C0404,Lyon,52,Bouche-à-oreille,2022-07-30
+C0405,Marseille,30,Réseaux sociaux,2023-04-16
+C0406,Paris,30,Bouche-à-oreille,2022-06-06
+C0407,Toulouse,26,Réseaux sociaux,2024-03-15
+C0408,Toulouse,53,Moteur de recherche,2024-06-06
+C0409,Lille,44,Bouche-à-oreille,2024-04-10
+C0410,Toulouse,27,Réseaux sociaux,2024-02-11
+C0411,Lille,35,Bouche-à-oreille,2022-09-15
+C0412,Lyon,19,Moteur de recherche,2023-08-04
+C0413,Bordeaux,43,Publicité en ligne,2022-04-25
+C0414,Marseille,18,Réseaux sociaux,2023-02-14
+C0415,Marseille,47,Moteur de recherche,2023-07-08
+C0416,Toulouse,40,Moteur de recherche,2024-01-03
+C0417,Lyon,67,Moteur de recherche,2022-04-16
+C0418,Marseille,19,Réseaux sociaux,2024-06-09
+C0419,Lille,31,Réseaux sociaux,2023-05-18
+C0420,Nantes,60,Publicité en ligne,2024-08-22
+C0421,Strasbourg,46,Réseaux sociaux,2023-08-01
+C0422,Marseille,30,Publicité en ligne,2023-08-22
+C0423,Marseille,41,Bouche-à-oreille,2024-01-29
+C0424,Bordeaux,32,Réseaux sociaux,2024-06-16
+C0425,Lyon,35,Réseaux sociaux,2022-06-22
+C0426,Nantes,30,Moteur de recherche,2023-07-14
+C0427,Marseille,31,Réseaux sociaux,2022-02-02
+C0428,Paris,19,Moteur de recherche,2023-06-04
+C0429,Paris,40,Publicité en ligne,2024-06-09
+C0430,Nantes,43,Moteur de recherche,2024-08-05
+C0431,Paris,29,Réseaux sociaux,2022-11-07
+C0432,Paris,19,Publicité en ligne,2023-02-28
+C0433,Lyon,50,Moteur de recherche,2023-08-27
+C0434,Paris,36,Réseaux sociaux,2023-03-10
+C0435,Lyon,29,Moteur de recherche,2022-07-14
+C0436,Bordeaux,35,Bouche-à-oreille,2022-11-30
+C0437,Paris,20,Moteur de recherche,2023-03-19
+C0438,Bordeaux,26,Moteur de recherche,2023-07-22
+C0439,Nantes,26,Réseaux sociaux,2024-10-05
+C0440,Lyon,47,Réseaux sociaux,2023-08-20
+C0441,Paris,24,Réseaux sociaux,2023-02-28
+C0442,Toulouse,40,Réseaux sociaux,2023-12-25
+C0443,Paris,32,Bouche-à-oreille,2024-04-26
+C0444,Lyon,35,Réseaux sociaux,2023-04-17
+C0445,Strasbourg,36,Publicité en ligne,2023-06-20
+C0446,Strasbourg,42,Réseaux sociaux,2022-08-27
+C0447,Bordeaux,26,Réseaux sociaux,2024-08-04
+C0448,Lyon,19,Moteur de recherche,2024-08-07
+C0449,Lille,18,Réseaux sociaux,2022-07-11
+C0450,Lille,32,Publicité en ligne,2023-01-14
+C0451,Lyon,23,Bouche-à-oreille,2022-10-25
+C0452,Toulouse,43,Publicité en ligne,2024-10-07
+C0453,Paris,26,Réseaux sociaux,2022-03-13
+C0454,Paris,66,Publicité en ligne,2022-08-16
+C0455,Marseille,18,Réseaux sociaux,2022-12-11
+C0456,Paris,40,Bouche-à-oreille,2023-09-06
+C0457,Paris,24,Moteur de recherche,2022-09-30
+C0458,Nantes,26,Réseaux sociaux,2023-08-11
+C0459,Strasbourg,34,Réseaux sociaux,2024-03-29
+C0460,Toulouse,18,Réseaux sociaux,2024-06-26
+C0461,Nantes,35,Réseaux sociaux,2022-04-19
+C0462,Strasbourg,61,Bouche-à-oreille,2022-06-02
+C0463,Paris,33,Publicité en ligne,2022-04-15
+C0464,Marseille,41,Bouche-à-oreille,2024-09-23
+C0465,Lyon,44,Réseaux sociaux,2023-12-16
+C0466,Paris,36,Moteur de recherche,2023-08-05
+C0467,Bordeaux,25,Réseaux sociaux,2024-05-16
+C0468,Marseille,18,Moteur de recherche,2023-10-04
+C0469,Marseille,40,Réseaux sociaux,2022-09-15
+C0470,Paris,31,Réseaux sociaux,2023-07-13
+C0471,Paris,26,Moteur de recherche,2024-02-10
+C0472,Nantes,34,Réseaux sociaux,2022-02-09
+C0473,Paris,31,Moteur de recherche,2023-10-26
+C0474,Paris,32,Moteur de recherche,2023-06-29
+C0475,Paris,39,Réseaux sociaux,2022-03-18
+C0476,Marseille,22,Bouche-à-oreille,2022-10-16
+C0477,Toulouse,51,Moteur de recherche,2023-05-07
+C0478,Marseille,21,Publicité en ligne,2023-01-11
+C0479,Paris,30,Moteur de recherche,2022-11-14
+C0480,Paris,61,Publicité en ligne,2023-12-12
+C0481,Nantes,52,Publicité en ligne,2023-03-19
+C0482,Toulouse,39,Publicité en ligne,2023-06-29
+C0483,Toulouse,27,Moteur de recherche,2024-05-24
+C0484,Lille,26,Réseaux sociaux,2022-04-13
+C0485,Bordeaux,33,Réseaux sociaux,2023-01-30
+C0486,Paris,38,Moteur de recherche,2022-03-21
+C0487,Lyon,31,Réseaux sociaux,2024-10-12
+C0488,Marseille,32,Réseaux sociaux,2022-07-23
+C0489,Lyon,29,Réseaux sociaux,2024-06-16
+C0490,Nantes,21,Moteur de recherche,2022-07-29
+C0491,Marseille,26,Réseaux sociaux,2022-12-21
+C0492,Bordeaux,49,Moteur de recherche,2023-10-29
+C0493,Nantes,22,Publicité en ligne,2024-06-29
+C0494,Marseille,36,Publicité en ligne,2022-07-14
+C0495,Nantes,22,Réseaux sociaux,2022-08-22
+C0496,Toulouse,39,Moteur de recherche,2024-08-23
+C0497,Nantes,33,Moteur de recherche,2022-12-19
+C0498,Lyon,56,Moteur de recherche,2022-08-18
+C0499,Marseille,44,Moteur de recherche,2024-03-25
+C0500,Marseille,18,Réseaux sociaux,2022-04-10
+C0501,Paris,46,Bouche-à-oreille,2024-08-07
+C0502,Lyon,23,Réseaux sociaux,2024-08-16
+C0503,Nantes,31,Publicité en ligne,2024-07-26
+C0504,Toulouse,42,Moteur de recherche,2022-11-20
+C0505,Paris,26,Réseaux sociaux,2022-05-06
+C0506,Lyon,49,Publicité en ligne,2023-04-11
+C0507,Paris,23,Réseaux sociaux,2023-01-02
+C0508,Paris,31,Publicité en ligne,2024-11-16
+C0509,Strasbourg,30,Moteur de recherche,2023-11-23
+C0510,Marseille,25,Réseaux sociaux,2024-10-31
+C0511,Lyon,45,Réseaux sociaux,2024-04-02
+C0512,Toulouse,46,Publicité en ligne,2024-02-22
+C0513,Paris,53,Réseaux sociaux,2022-05-03
+C0514,Paris,65,Bouche-à-oreille,2022-03-17
+C0515,Lille,26,Publicité en ligne,2022-02-20
+C0516,Toulouse,39,Publicité en ligne,2023-10-12
+C0517,Strasbourg,18,Réseaux sociaux,2022-08-09
+C0518,Toulouse,29,Publicité en ligne,2024-12-19
+C0519,Marseille,30,Bouche-à-oreille,2022-05-26
+C0520,Bordeaux,19,Réseaux sociaux,2024-11-02
+C0521,Nantes,19,Réseaux sociaux,2024-01-02
+C0522,Lille,30,Réseaux sociaux,2022-04-27
+C0523,Strasbourg,23,Moteur de recherche,2022-03-06
+C0524,Bordeaux,48,Publicité en ligne,2023-03-10
+C0525,Nantes,27,Moteur de recherche,2023-01-07
+C0526,Paris,72,Moteur de recherche,2022-12-12
+C0527,Lille,27,Réseaux sociaux,2023-08-02
+C0528,Marseille,33,Réseaux sociaux,2022-05-23
+C0529,Toulouse,18,Réseaux sociaux,2022-05-22
+C0530,Lille,58,Publicité en ligne,2024-01-31
+C0531,Strasbourg,51,Moteur de recherche,2024-12-20
+C0532,Strasbourg,36,Réseaux sociaux,2022-10-27
+C0533,Paris,22,Publicité en ligne,2024-10-17
+C0534,Lille,35,Réseaux sociaux,2023-01-13
+C0535,Bordeaux,19,Réseaux sociaux,2023-01-03
+C0536,Lyon,50,Réseaux sociaux,2022-04-09
+C0537,Paris,48,Bouche-à-oreille,2023-04-09
+C0538,Paris,39,Publicité en ligne,2023-06-30
+C0539,Bordeaux,18,Moteur de recherche,2023-12-28
+C0540,Marseille,20,Réseaux sociaux,2022-06-23
+C0541,Strasbourg,40,Réseaux sociaux,2022-07-26
+C0542,Marseille,53,Moteur de recherche,2023-04-19
+C0543,Strasbourg,45,Réseaux sociaux,2022-03-18
+C0544,Lyon,19,Bouche-à-oreille,2022-06-06
+C0545,Bordeaux,42,Publicité en ligne,2023-11-20
+C0546,Paris,50,Moteur de recherche,2024-11-10
+C0547,Toulouse,18,Publicité en ligne,2023-09-20
+C0548,Bordeaux,38,Bouche-à-oreille,2022-06-08
+C0549,Strasbourg,41,Moteur de recherche,2024-12-21
+C0550,Bordeaux,34,Moteur de recherche,2023-07-26
+C0551,Paris,18,Bouche-à-oreille,2024-02-24
+C0552,Lyon,28,Réseaux sociaux,2022-08-04
+C0553,Paris,34,Bouche-à-oreille,2023-09-26
+C0554,Paris,30,Réseaux sociaux,2022-03-25
+C0555,Lille,31,Moteur de recherche,2023-11-17
+C0556,Lille,33,Publicité en ligne,2022-08-10
+C0557,Bordeaux,38,Moteur de recherche,2024-09-22
+C0558,Nantes,43,Moteur de recherche,2022-03-01
+C0559,Lille,34,Moteur de recherche,2023-12-16
+C0560,Bordeaux,27,Réseaux sociaux,2022-06-02
+C0561,Paris,33,Réseaux sociaux,2024-01-23
+C0562,Paris,18,Réseaux sociaux,2023-06-25
+C0563,Toulouse,44,Moteur de recherche,2024-11-25
+C0564,Nantes,38,Moteur de recherche,2023-12-15
+C0565,Paris,32,Réseaux sociaux,2023-02-12
+C0566,Marseille,50,Bouche-à-oreille,2022-04-06
+C0567,Lille,18,Réseaux sociaux,2023-10-15
+C0568,Paris,18,Moteur de recherche,2023-04-28
+C0569,Lyon,41,Moteur de recherche,2022-02-27
+C0570,Nantes,32,Réseaux sociaux,2023-09-29
+C0571,Lille,40,Publicité en ligne,2022-08-18
+C0572,Paris,32,Moteur de recherche,2022-09-14
+C0573,Nantes,40,Réseaux sociaux,2022-01-10
+C0574,Lyon,49,Bouche-à-oreille,2023-02-12
+C0575,Nantes,44,Publicité en ligne,2022-08-28
+C0576,Paris,35,Publicité en ligne,2022-03-20
+C0577,Toulouse,18,Publicité en ligne,2023-04-21
+C0578,Lyon,47,Bouche-à-oreille,2022-08-30
+C0579,Paris,47,Réseaux sociaux,2022-05-27
+C0580,Nantes,46,Moteur de recherche,2023-05-27
+C0581,Paris,27,Moteur de recherche,2022-03-11
+C0582,Paris,40,Réseaux sociaux,2024-12-20
+C0583,Lyon,42,Réseaux sociaux,2023-05-31
+C0584,Lille,51,Réseaux sociaux,2024-12-26
+C0585,Bordeaux,27,Moteur de recherche,2024-08-23
+C0586,Strasbourg,35,Publicité en ligne,2024-12-08
+C0587,Paris,47,Publicité en ligne,2023-08-18
+C0588,Lyon,33,Réseaux sociaux,2023-04-09
+C0589,Paris,19,Réseaux sociaux,2024-02-28
+C0590,Toulouse,43,Moteur de recherche,2022-03-30
+C0591,Strasbourg,45,Moteur de recherche,2024-07-09
+C0592,Lille,39,Bouche-à-oreille,2022-12-21
+C0593,Toulouse,41,Publicité en ligne,2022-01-09
+C0594,Lyon,35,Bouche-à-oreille,2022-09-18
+C0595,Nantes,56,Publicité en ligne,2022-09-23
+C0596,Marseille,27,Bouche-à-oreille,2022-01-16
+C0597,Paris,31,Moteur de recherche,2024-01-03
+C0598,Lyon,32,Réseaux sociaux,2022-04-15
+C0599,Paris,43,Réseaux sociaux,2024-07-16
+C0600,Paris,20,Moteur de recherche,2023-05-12
+C0601,Paris,18,Réseaux sociaux,2024-02-26
+C0602,Marseille,18,Réseaux sociaux,2023-01-07
+C0603,Toulouse,38,Bouche-à-oreille,2022-05-25
+C0604,Lyon,19,Réseaux sociaux,2022-07-17
+C0605,Lyon,33,Bouche-à-oreille,2023-12-09
+C0606,Strasbourg,46,Publicité en ligne,2024-02-24
+C0607,Bordeaux,30,Moteur de recherche,2022-10-20
+C0608,Marseille,41,Moteur de recherche,2023-01-27
+C0609,Paris,28,Réseaux sociaux,2024-10-31
+C0610,Nantes,46,Moteur de recherche,2024-07-21
+C0611,Paris,38,Réseaux sociaux,2023-03-29
+C0612,Lyon,30,Bouche-à-oreille,2022-09-21
+C0613,Nantes,30,Réseaux sociaux,2022-11-26
+C0614,Marseille,45,Réseaux sociaux,2023-08-13
+C0615,Bordeaux,43,Publicité en ligne,2023-09-13
+C0616,Toulouse,21,Moteur de recherche,2022-07-21
+C0617,Lille,46,Moteur de recherche,2022-03-14
+C0618,Paris,25,Moteur de recherche,2023-06-27
+C0619,Paris,49,Réseaux sociaux,2024-05-23
+C0620,Lyon,50,Moteur de recherche,2022-06-16
+C0621,Paris,35,Réseaux sociaux,2023-03-24
+C0622,Nantes,34,Réseaux sociaux,2022-06-26
+C0623,Paris,29,Réseaux sociaux,2022-09-23
+C0624,Toulouse,40,Réseaux sociaux,2023-11-02
+C0625,Bordeaux,28,Réseaux sociaux,2022-11-10
+C0626,Bordeaux,41,Moteur de recherche,2022-10-16
+C0627,Marseille,42,Réseaux sociaux,2024-12-26
+C0628,Marseille,25,Réseaux sociaux,2022-07-08
+C0629,Strasbourg,31,Moteur de recherche,2022-07-27
+C0630,Lille,18,Réseaux sociaux,2024-10-15
+C0631,Bordeaux,25,Publicité en ligne,2023-08-26
+C0632,Nantes,18,Bouche-à-oreille,2022-02-17
+C0633,Bordeaux,47,Moteur de recherche,2023-04-11
+C0634,Paris,60,Bouche-à-oreille,2023-09-11
+C0635,Toulouse,49,Réseaux sociaux,2022-10-05
+C0636,Paris,18,Réseaux sociaux,2023-08-24
+C0637,Lille,47,Publicité en ligne,2023-12-12
+C0638,Strasbourg,55,Publicité en ligne,2022-10-02
+C0639,Marseille,33,Publicité en ligne,2024-06-08
+C0640,Marseille,33,Réseaux sociaux,2023-05-11
+C0641,Paris,18,Publicité en ligne,2024-11-20
+C0642,Strasbourg,35,Réseaux sociaux,2022-04-07
+C0643,Paris,19,Réseaux sociaux,2022-12-22
+C0644,Paris,34,Réseaux sociaux,2024-02-29
+C0645,Paris,19,Bouche-à-oreille,2024-09-06
+C0646,Paris,39,Réseaux sociaux,2022-08-31
+C0647,Marseille,50,Publicité en ligne,2024-12-09
+C0648,Marseille,29,Moteur de recherche,2022-07-31
+C0649,Lyon,24,Publicité en ligne,2023-04-01
+C0650,Paris,18,Publicité en ligne,2022-12-11
+C0651,Paris,35,Publicité en ligne,2023-04-10
+C0652,Lyon,25,Réseaux sociaux,2024-09-15
+C0653,Paris,18,Réseaux sociaux,2024-03-13
+C0654,Lille,43,Moteur de recherche,2024-05-22
+C0655,Paris,27,Réseaux sociaux,2022-10-06
+C0656,Lyon,19,Réseaux sociaux,2024-11-02
+C0657,Lyon,25,Réseaux sociaux,2023-04-22
+C0658,Lyon,45,Réseaux sociaux,2023-12-15
+C0659,Paris,39,Réseaux sociaux,2024-02-04
+C0660,Paris,30,Réseaux sociaux,2023-12-27
+C0661,Nantes,45,Bouche-à-oreille,2023-10-21
+C0662,Paris,18,Réseaux sociaux,2023-06-10
+C0663,Marseille,38,Bouche-à-oreille,2023-12-11
+C0664,Marseille,40,Bouche-à-oreille,2024-09-18
+C0665,Lyon,26,Réseaux sociaux,2023-03-03
+C0666,Marseille,43,Publicité en ligne,2023-07-14
+C0667,Bordeaux,29,Moteur de recherche,2022-07-17
+C0668,Nantes,44,Publicité en ligne,2023-01-24
+C0669,Paris,39,Réseaux sociaux,2024-04-25
+C0670,Lyon,18,Réseaux sociaux,2023-12-03
+C0671,Paris,46,Réseaux sociaux,2022-08-20
+C0672,Marseille,18,Moteur de recherche,2023-08-22
+C0673,Lille,31,Bouche-à-oreille,2024-06-08
+C0674,Paris,50,Moteur de recherche,2022-05-16
+C0675,Lyon,34,Publicité en ligne,2022-03-09
+C0676,Strasbourg,20,Bouche-à-oreille,2023-03-07
+C0677,Paris,25,Moteur de recherche,2023-12-20
+C0678,Marseille,44,Réseaux sociaux,2022-12-10
+C0679,Lille,18,Publicité en ligne,2024-06-18
+C0680,Paris,46,Réseaux sociaux,2024-07-16
+C0681,Paris,31,Réseaux sociaux,2023-08-07
+C0682,Paris,24,Moteur de recherche,2023-02-19
+C0683,Nantes,31,Bouche-à-oreille,2022-02-15
+C0684,Paris,20,Réseaux sociaux,2024-06-18
+C0685,Paris,48,Moteur de recherche,2024-09-07
+C0686,Paris,41,Réseaux sociaux,2023-04-30
+C0687,Paris,18,Réseaux sociaux,2023-07-20
+C0688,Toulouse,27,Réseaux sociaux,2024-04-05
+C0689,Paris,28,Publicité en ligne,2024-02-01
+C0690,Toulouse,54,Publicité en ligne,2022-05-29
+C0691,Toulouse,18,Réseaux sociaux,2024-01-07
+C0692,Nantes,51,Réseaux sociaux,2024-10-09
+C0693,Paris,32,Réseaux sociaux,2024-04-02
+C0694,Nantes,18,Réseaux sociaux,2023-06-11
+C0695,Toulouse,30,Moteur de recherche,2023-07-27
+C0696,Paris,28,Publicité en ligne,2022-10-12
+C0697,Bordeaux,23,Moteur de recherche,2023-12-25
+C0698,Nantes,39,Moteur de recherche,2022-09-22
+C0699,Paris,23,Moteur de recherche,2023-01-10
+C0700,Nantes,18,Réseaux sociaux,2022-10-18
+C0701,Marseille,27,Réseaux sociaux,2023-01-03
+C0702,Toulouse,18,Bouche-à-oreille,2023-02-06
+C0703,Strasbourg,29,Publicité en ligne,2022-04-01
+C0704,Lyon,27,Bouche-à-oreille,2024-02-25
+C0705,Bordeaux,28,Bouche-à-oreille,2023-04-28
+C0706,Lyon,62,Moteur de recherche,2024-11-05
+C0707,Bordeaux,39,Bouche-à-oreille,2022-07-18
+C0708,Toulouse,41,Moteur de recherche,2024-01-03
+C0709,Paris,18,Réseaux sociaux,2022-07-16
+C0710,Lyon,24,Réseaux sociaux,2023-08-23
+C0711,Lyon,35,Réseaux sociaux,2023-06-22
+C0712,Paris,20,Réseaux sociaux,2023-05-07
+C0713,Paris,43,Réseaux sociaux,2023-12-18
+C0714,Lyon,24,Publicité en ligne,2024-06-25
+C0715,Paris,35,Publicité en ligne,2022-12-13
+C0716,Paris,31,Moteur de recherche,2024-07-19
+C0717,Lille,34,Réseaux sociaux,2022-07-22
+C0718,Lille,30,Publicité en ligne,2022-11-17
+C0719,Lille,29,Réseaux sociaux,2022-12-07
+C0720,Lyon,29,Réseaux sociaux,2024-11-09
+C0721,Nantes,23,Réseaux sociaux,2022-05-10
+C0722,Toulouse,38,Réseaux sociaux,2023-03-09
+C0723,Paris,35,Réseaux sociaux,2023-04-10
+C0724,Paris,37,Publicité en ligne,2024-05-26
+C0725,Lille,33,Publicité en ligne,2023-06-17
+C0726,Paris,48,Publicité en ligne,2024-11-24
+C0727,Marseille,29,Réseaux sociaux,2024-03-21
+C0728,Strasbourg,34,Publicité en ligne,2024-02-10
+C0729,Paris,39,Moteur de recherche,2024-04-04
+C0730,Paris,52,Réseaux sociaux,2022-06-26
+C0731,Strasbourg,22,Moteur de recherche,2023-05-07
+C0732,Toulouse,47,Moteur de recherche,2023-10-04
+C0733,Paris,18,Moteur de recherche,2022-08-17
+C0734,Nantes,35,Réseaux sociaux,2022-05-11
+C0735,Nantes,57,Moteur de recherche,2022-05-29
+C0736,Marseille,38,Réseaux sociaux,2024-05-14
+C0737,Toulouse,34,Réseaux sociaux,2023-12-21
+C0738,Paris,25,Réseaux sociaux,2022-11-05
+C0739,Paris,38,Bouche-à-oreille,2024-03-18
+C0740,Toulouse,29,Réseaux sociaux,2024-02-01
+C0741,Paris,23,Réseaux sociaux,2024-06-13
+C0742,Lille,29,Réseaux sociaux,2024-09-23
+C0743,Nantes,40,Bouche-à-oreille,2024-08-24
+C0744,Paris,29,Moteur de recherche,2022-07-18
+C0745,Toulouse,28,Bouche-à-oreille,2024-04-22
+C0746,Paris,18,Réseaux sociaux,2023-03-07
+C0747,Nantes,37,Réseaux sociaux,2023-03-18
+C0748,Paris,45,Moteur de recherche,2023-12-10
+C0749,Toulouse,35,Réseaux sociaux,2023-10-22
+C0750,Toulouse,50,Publicité en ligne,2023-04-05
+C0751,Lyon,39,Publicité en ligne,2024-12-30
+C0752,Lille,43,Moteur de recherche,2022-07-11
+C0753,Lille,42,Bouche-à-oreille,2022-04-17
+C0754,Toulouse,37,Moteur de recherche,2022-02-01
+C0755,Bordeaux,26,Réseaux sociaux,2024-06-10
+C0756,Strasbourg,65,Moteur de recherche,2023-03-22
+C0757,Lyon,27,Réseaux sociaux,2023-04-24
+C0758,Marseille,30,Publicité en ligne,2023-12-12
+C0759,Paris,37,Réseaux sociaux,2023-04-22
+C0760,Bordeaux,35,Réseaux sociaux,2023-09-21
+C0761,Marseille,21,Moteur de recherche,2022-03-06
+C0762,Lyon,45,Réseaux sociaux,2022-06-21
+C0763,Paris,31,Réseaux sociaux,2024-10-17
+C0764,Nantes,25,Publicité en ligne,2023-05-09
+C0765,Lyon,46,Réseaux sociaux,2022-07-03
+C0766,Lille,46,Moteur de recherche,2023-02-09
+C0767,Paris,18,Réseaux sociaux,2023-01-02
+C0768,Strasbourg,53,Réseaux sociaux,2022-10-28
+C0769,Paris,40,Réseaux sociaux,2022-11-18
+C0770,Paris,38,Publicité en ligne,2024-03-09
+C0771,Nantes,57,Bouche-à-oreille,2022-04-27
+C0772,Nantes,34,Réseaux sociaux,2022-12-06
+C0773,Paris,38,Bouche-à-oreille,2023-05-28
+C0774,Marseille,30,Moteur de recherche,2023-08-15
+C0775,Lille,45,Moteur de recherche,2024-08-22
+C0776,Nantes,44,Publicité en ligne,2024-10-07
+C0777,Lyon,38,Publicité en ligne,2022-11-22
+C0778,Marseille,29,Publicité en ligne,2023-08-14
+C0779,Bordeaux,40,Moteur de recherche,2022-01-25
+C0780,Lille,37,Moteur de recherche,2023-11-07
+C0781,Bordeaux,18,Réseaux sociaux,2022-06-17
+C0782,Toulouse,18,Réseaux sociaux,2022-03-22
+C0783,Paris,45,Moteur de recherche,2024-01-06
+C0784,Nantes,18,Réseaux sociaux,2022-07-15
+C0785,Nantes,34,Réseaux sociaux,2023-06-07
+C0786,Bordeaux,26,Réseaux sociaux,2022-04-21
+C0787,Paris,48,Réseaux sociaux,2024-03-27
+C0788,Paris,32,Moteur de recherche,2024-04-17
+C0789,Bordeaux,46,Moteur de recherche,2023-09-22
+C0790,Paris,33,Moteur de recherche,2024-07-04
+C0791,Strasbourg,33,Réseaux sociaux,2023-04-24
+C0792,Lyon,47,Moteur de recherche,2022-07-24
+C0793,Lille,26,Réseaux sociaux,2022-06-15
+C0794,Nantes,50,Publicité en ligne,2022-08-29
+C0795,Lyon,26,Moteur de recherche,2022-08-08
+C0796,Lyon,42,Moteur de recherche,2022-12-20
+C0797,Toulouse,49,Moteur de recherche,2022-08-23
+C0798,Toulouse,46,Bouche-à-oreille,2023-10-10
+C0799,Lyon,61,Publicité en ligne,2022-06-12
+C0800,Toulouse,29,Moteur de recherche,2023-11-12
+C0801,Strasbourg,21,Moteur de recherche,2023-01-01
+C0802,Marseille,20,Réseaux sociaux,2024-01-22
+C0803,Paris,46,Bouche-à-oreille,2023-07-16
+C0804,Lyon,38,Réseaux sociaux,2024-09-18
+C0805,Lyon,33,Réseaux sociaux,2023-04-27
+C0806,Paris,25,Bouche-à-oreille,2022-11-20
+C0807,Paris,47,Publicité en ligne,2023-10-08
+C0808,Lille,18,Réseaux sociaux,2023-12-23
+C0809,Lyon,46,Réseaux sociaux,2023-04-26
+C0810,Strasbourg,66,Réseaux sociaux,2023-09-05
+C0811,Paris,42,Moteur de recherche,2023-05-31
+C0812,Paris,39,Réseaux sociaux,2022-12-01
+C0813,Bordeaux,32,Bouche-à-oreille,2022-12-10
+C0814,Nantes,18,Bouche-à-oreille,2024-09-20
+C0815,Paris,31,Moteur de recherche,2024-01-10
+C0816,Paris,25,Moteur de recherche,2022-04-15
+C0817,Paris,18,Réseaux sociaux,2024-11-19
+C0818,Marseille,53,Réseaux sociaux,2024-02-19
+C0819,Marseille,41,Publicité en ligne,2022-02-24
+C0820,Paris,37,Réseaux sociaux,2024-03-08
+C0821,Paris,28,Réseaux sociaux,2023-10-08
+C0822,Marseille,30,Réseaux sociaux,2024-09-29
+C0823,Strasbourg,44,Réseaux sociaux,2023-06-20
+C0824,Lille,38,Moteur de recherche,2023-07-22
+C0825,Marseille,44,Publicité en ligne,2022-12-11
+C0826,Paris,36,Publicité en ligne,2022-12-19
+C0827,Paris,34,Moteur de recherche,2023-11-08
+C0828,Paris,21,Publicité en ligne,2024-06-25
+C0829,Bordeaux,18,Moteur de recherche,2024-09-02
+C0830,Nantes,35,Publicité en ligne,2024-04-24
+C0831,Nantes,39,Moteur de recherche,2023-10-30
+C0832,Strasbourg,18,Réseaux sociaux,2023-07-02
+C0833,Strasbourg,38,Bouche-à-oreille,2023-01-07
+C0834,Strasbourg,33,Réseaux sociaux,2024-04-20
+C0835,Paris,18,Réseaux sociaux,2022-12-15
+C0836,Paris,21,Réseaux sociaux,2022-10-21
+C0837,Lyon,37,Réseaux sociaux,2024-08-08
+C0838,Toulouse,37,Réseaux sociaux,2023-10-08
+C0839,Paris,24,Moteur de recherche,2023-01-23
+C0840,Nantes,40,Bouche-à-oreille,2024-08-05
+C0841,Toulouse,44,Réseaux sociaux,2024-11-20
+C0842,Marseille,47,Moteur de recherche,2022-12-15
+C0843,Paris,31,Réseaux sociaux,2023-07-25
+C0844,Paris,32,Publicité en ligne,2023-06-14
+C0845,Paris,24,Réseaux sociaux,2024-02-08
+C0846,Nantes,38,Réseaux sociaux,2024-11-07
+C0847,Toulouse,40,Moteur de recherche,2023-08-24
+C0848,Lille,46,Moteur de recherche,2024-05-24
+C0849,Paris,40,Publicité en ligne,2023-10-15
+C0850,Lyon,48,Moteur de recherche,2024-08-29
+C0851,Lyon,39,Publicité en ligne,2023-03-20
+C0852,Bordeaux,47,Moteur de recherche,2023-02-26
+C0853,Bordeaux,42,Réseaux sociaux,2023-04-08
+C0854,Paris,22,Réseaux sociaux,2024-12-27
+C0855,Strasbourg,18,Réseaux sociaux,2023-11-01
+C0856,Paris,51,Réseaux sociaux,2022-06-17
+C0857,Nantes,41,Moteur de recherche,2022-02-14
+C0858,Paris,18,Réseaux sociaux,2023-07-23
+C0859,Paris,29,Moteur de recherche,2024-06-01
+C0860,Nantes,47,Moteur de recherche,2023-06-09
+C0861,Paris,35,Moteur de recherche,2023-09-06
+C0862,Lyon,32,Moteur de recherche,2024-05-24
+C0863,Marseille,49,Réseaux sociaux,2023-07-20
+C0864,Paris,19,Réseaux sociaux,2024-09-21
+C0865,Lille,28,Moteur de recherche,2023-11-30
+C0866,Nantes,41,Moteur de recherche,2024-03-11
+C0867,Nantes,37,Réseaux sociaux,2024-05-05
+C0868,Lyon,38,Réseaux sociaux,2023-11-18
+C0869,Marseille,49,Publicité en ligne,2022-02-24
+C0870,Paris,40,Moteur de recherche,2023-04-14
+C0871,Paris,38,Réseaux sociaux,2022-06-04
+C0872,Paris,35,Moteur de recherche,2023-07-13
+C0873,Strasbourg,39,Bouche-à-oreille,2022-06-06
+C0874,Nantes,33,Réseaux sociaux,2023-07-12
+C0875,Bordeaux,41,Publicité en ligne,2023-01-12
+C0876,Marseille,41,Réseaux sociaux,2022-01-23
+C0877,Marseille,45,Moteur de recherche,2022-05-17
+C0878,Marseille,39,Moteur de recherche,2023-07-05
+C0879,Marseille,22,Réseaux sociaux,2022-03-28
+C0880,Marseille,39,Bouche-à-oreille,2024-07-26
+C0881,Paris,38,Moteur de recherche,2024-04-10
+C0882,Paris,40,Bouche-à-oreille,2024-02-16
+C0883,Strasbourg,58,Réseaux sociaux,2022-07-08
+C0884,Marseille,32,Publicité en ligne,2024-05-21
+C0885,Strasbourg,43,Bouche-à-oreille,2023-11-26
+C0886,Paris,51,Moteur de recherche,2023-03-04
+C0887,Toulouse,33,Réseaux sociaux,2022-01-01
+C0888,Paris,66,Publicité en ligne,2023-08-03
+C0889,Paris,33,Moteur de recherche,2024-05-21
+C0890,Paris,42,Bouche-à-oreille,2022-02-06
+C0891,Paris,28,Moteur de recherche,2022-02-27
+C0892,Nantes,28,Réseaux sociaux,2023-02-24
+C0893,Lyon,35,Réseaux sociaux,2023-07-15
+C0894,Toulouse,48,Publicité en ligne,2023-06-04
+C0895,Marseille,42,Bouche-à-oreille,2023-04-12
+C0896,Lyon,47,Réseaux sociaux,2022-10-07
+C0897,Marseille,37,Publicité en ligne,2022-03-07
+C0898,Paris,34,Bouche-à-oreille,2022-02-04
+C0899,Strasbourg,64,Réseaux sociaux,2022-04-19
+C0900,Bordeaux,37,Réseaux sociaux,2024-01-26
+C0901,Bordeaux,29,Publicité en ligne,2024-05-10
+C0902,Marseille,30,Moteur de recherche,2023-04-22
+C0903,Paris,21,Réseaux sociaux,2022-03-26
+C0904,Strasbourg,49,Publicité en ligne,2023-04-01
+C0905,Lyon,34,Moteur de recherche,2024-12-15
+C0906,Paris,40,Bouche-à-oreille,2022-10-01
+C0907,Lyon,37,Publicité en ligne,2023-06-22
+C0908,Bordeaux,47,Publicité en ligne,2023-08-12
+C0909,Toulouse,28,Moteur de recherche,2022-12-28
+C0910,Bordeaux,19,Réseaux sociaux,2023-04-25
+C0911,Bordeaux,41,Moteur de recherche,2023-06-01
+C0912,Paris,39,Réseaux sociaux,2023-06-04
+C0913,Strasbourg,42,Moteur de recherche,2024-02-25
+C0914,Marseille,22,Réseaux sociaux,2023-09-29
+C0915,Toulouse,46,Moteur de recherche,2022-02-28
+C0916,Paris,23,Réseaux sociaux,2022-01-07
+C0917,Strasbourg,26,Réseaux sociaux,2023-03-26
+C0918,Paris,21,Réseaux sociaux,2024-09-20
+C0919,Paris,54,Moteur de recherche,2022-02-10
+C0920,Marseille,46,Publicité en ligne,2022-03-19
+C0921,Paris,39,Réseaux sociaux,2024-01-14
+C0922,Paris,53,Publicité en ligne,2023-05-09
+C0923,Toulouse,72,Publicité en ligne,2022-09-10
+C0924,Lyon,18,Réseaux sociaux,2022-08-16
+C0925,Strasbourg,29,Moteur de recherche,2023-12-30
+C0926,Lyon,31,Moteur de recherche,2023-07-28
+C0927,Lille,22,Réseaux sociaux,2023-11-30
+C0928,Marseille,25,Moteur de recherche,2022-11-03
+C0929,Lille,28,Réseaux sociaux,2023-07-31
+C0930,Toulouse,23,Publicité en ligne,2024-07-30
+C0931,Marseille,42,Bouche-à-oreille,2022-12-13
+C0932,Strasbourg,39,Publicité en ligne,2023-03-11
+C0933,Lyon,44,Moteur de recherche,2022-06-29
+C0934,Paris,44,Moteur de recherche,2023-12-01
+C0935,Lille,45,Bouche-à-oreille,2022-02-05
+C0936,Nantes,28,Réseaux sociaux,2022-09-30
+C0937,Paris,57,Réseaux sociaux,2024-02-20
+C0938,Marseille,41,Moteur de recherche,2022-01-22
+C0939,Nantes,18,Réseaux sociaux,2024-12-19
+C0940,Bordeaux,20,Réseaux sociaux,2023-03-19
+C0941,Strasbourg,18,Réseaux sociaux,2023-03-13
+C0942,Marseille,38,Moteur de recherche,2023-08-11
+C0943,Lille,31,Réseaux sociaux,2023-12-01
+C0944,Lyon,26,Réseaux sociaux,2023-05-19
+C0945,Strasbourg,56,Réseaux sociaux,2024-08-26
+C0946,Lyon,39,Réseaux sociaux,2024-11-19
+C0947,Lille,47,Publicité en ligne,2022-08-08
+C0948,Lyon,21,Réseaux sociaux,2024-02-13
+C0949,Toulouse,26,Moteur de recherche,2022-11-26
+C0950,Lille,38,Publicité en ligne,2024-12-26
+C0951,Marseille,34,Réseaux sociaux,2022-10-05
+C0952,Nantes,18,Publicité en ligne,2022-11-20
+C0953,Lyon,36,Publicité en ligne,2024-02-22
+C0954,Toulouse,38,Moteur de recherche,2024-05-14
+C0955,Lyon,29,Réseaux sociaux,2022-05-21
+C0956,Lyon,22,Réseaux sociaux,2023-09-01
+C0957,Marseille,32,Bouche-à-oreille,2023-01-14
+C0958,Paris,36,Publicité en ligne,2023-11-01
+C0959,Paris,39,Bouche-à-oreille,2023-09-02
+C0960,Lille,45,Bouche-à-oreille,2024-12-15
+C0961,Lille,45,Réseaux sociaux,2024-10-19
+C0962,Lille,34,Publicité en ligne,2023-12-18
+C0963,Paris,33,Moteur de recherche,2024-01-14
+C0964,Lyon,43,Publicité en ligne,2024-09-11
+C0965,Paris,39,Réseaux sociaux,2022-07-20
+C0966,Bordeaux,27,Réseaux sociaux,2024-03-05
+C0967,Nantes,47,Publicité en ligne,2024-04-25
+C0968,Paris,50,Publicité en ligne,2022-05-20
+C0969,Lille,54,Moteur de recherche,2024-08-23
+C0970,Paris,53,Réseaux sociaux,2024-02-05
+C0971,Paris,22,Réseaux sociaux,2023-01-16
+C0972,Paris,38,Bouche-à-oreille,2023-06-15
+C0973,Paris,38,Moteur de recherche,2023-06-21
+C0974,Lille,37,Moteur de recherche,2024-10-03
+C0975,Nantes,30,Moteur de recherche,2024-11-27
+C0976,Paris,20,Moteur de recherche,2024-06-02
+C0977,Marseille,39,Moteur de recherche,2023-12-16
+C0978,Lille,29,Moteur de recherche,2022-04-25
+C0979,Strasbourg,39,Publicité en ligne,2024-09-28
+C0980,Toulouse,28,Bouche-à-oreille,2022-05-27
+C0981,Paris,25,Bouche-à-oreille,2022-07-02
+C0982,Toulouse,41,Moteur de recherche,2022-03-18
+C0983,Lyon,40,Moteur de recherche,2024-11-03
+C0984,Strasbourg,45,Publicité en ligne,2023-06-25
+C0985,Lyon,64,Publicité en ligne,2022-09-16
+C0986,Lille,41,Moteur de recherche,2022-03-30
+C0987,Paris,44,Publicité en ligne,2023-03-28
+C0988,Lyon,25,Publicité en ligne,2024-03-03
+C0989,Nantes,23,Moteur de recherche,2024-12-25
+C0990,Toulouse,57,Publicité en ligne,2023-08-28
+C0991,Marseille,21,Réseaux sociaux,2023-10-27
+C0992,Strasbourg,25,Moteur de recherche,2024-07-04
+C0993,Nantes,38,Moteur de recherche,2024-09-14
+C0994,Lyon,31,Réseaux sociaux,2022-11-03
+C0995,Marseille,27,Publicité en ligne,2024-12-22
+C0996,Marseille,34,Moteur de recherche,2023-07-23
+C0997,Toulouse,47,Réseaux sociaux,2024-10-15
+C0998,Lyon,28,Publicité en ligne,2022-05-09
+C0999,Paris,21,Publicité en ligne,2022-04-17
+C1000,Nantes,49,Publicité en ligne,2024-08-26
+C1001,Strasbourg,44,Moteur de recherche,2024-01-07
+C1002,Nantes,31,Publicité en ligne,2022-07-11
+C1003,Strasbourg,19,Moteur de recherche,2024-09-06
+C1004,Bordeaux,29,Moteur de recherche,2022-04-23
+C1005,Bordeaux,31,Réseaux sociaux,2024-01-18
+C1006,Bordeaux,52,Moteur de recherche,2022-08-13
+C1007,Marseille,26,Publicité en ligne,2022-03-19
+C1008,Marseille,37,Moteur de recherche,2024-06-01
+C1009,Paris,46,Moteur de recherche,2024-07-16
+C1010,Toulouse,18,Publicité en ligne,2022-04-26
+C1011,Paris,50,Publicité en ligne,2022-04-12
+C1012,Paris,18,Réseaux sociaux,2023-11-04
+C1013,Toulouse,42,Bouche-à-oreille,2022-02-01
+C1014,Lyon,41,Publicité en ligne,2024-03-28
+C1015,Paris,51,Bouche-à-oreille,2024-09-29
+C1016,Bordeaux,45,Bouche-à-oreille,2024-04-02
+C1017,Nantes,18,Bouche-à-oreille,2022-09-10
+C1018,Paris,29,Publicité en ligne,2022-07-28
+C1019,Paris,40,Moteur de recherche,2024-01-16
+C1020,Lyon,30,Réseaux sociaux,2022-03-09
+C1021,Bordeaux,44,Moteur de recherche,2023-08-12
+C1022,Nantes,47,Publicité en ligne,2023-05-07
+C1023,Paris,45,Moteur de recherche,2024-03-26
+C1024,Bordeaux,35,Publicité en ligne,2022-08-10
+C1025,Paris,18,Réseaux sociaux,2024-04-14
+C1026,Lyon,33,Moteur de recherche,2024-02-05
+C1027,Strasbourg,43,Moteur de recherche,2022-09-19
+C1028,Paris,25,Moteur de recherche,2023-01-26
+C1029,Paris,40,Réseaux sociaux,2022-03-14
+C1030,Lyon,43,Réseaux sociaux,2023-05-08
+C1031,Toulouse,40,Publicité en ligne,2022-10-13
+C1032,Strasbourg,18,Moteur de recherche,2022-05-05
+C1033,Strasbourg,18,Réseaux sociaux,2023-09-06
+C1034,Paris,55,Réseaux sociaux,2023-09-14
+C1035,Paris,31,Moteur de recherche,2022-04-05
+C1036,Bordeaux,18,Réseaux sociaux,2022-07-23
+C1037,Paris,53,Publicité en ligne,2022-04-01
+C1038,Nantes,38,Publicité en ligne,2024-01-14
+C1039,Lille,45,Réseaux sociaux,2023-01-06
+C1040,Paris,41,Moteur de recherche,2022-03-19
+C1041,Nantes,38,Réseaux sociaux,2022-07-29
+C1042,Paris,36,Réseaux sociaux,2024-12-04
+C1043,Lyon,46,Bouche-à-oreille,2022-10-08
+C1044,Toulouse,65,Moteur de recherche,2024-01-20
+C1045,Marseille,50,Bouche-à-oreille,2023-05-28
+C1046,Lille,18,Réseaux sociaux,2022-07-18
+C1047,Lille,37,Réseaux sociaux,2022-12-03
+C1048,Strasbourg,52,Moteur de recherche,2022-01-16
+C1049,Strasbourg,52,Moteur de recherche,2024-03-28
+C1050,Marseille,33,Bouche-à-oreille,2023-01-02
+C1051,Paris,46,Réseaux sociaux,2023-07-01
+C1052,Lille,49,Publicité en ligne,2022-06-17
+C1053,Strasbourg,69,Publicité en ligne,2024-06-21
+C1054,Lyon,29,Moteur de recherche,2022-08-28
+C1055,Marseille,26,Réseaux sociaux,2023-09-13
+C1056,Lyon,34,Moteur de recherche,2024-08-13
+C1057,Paris,26,Réseaux sociaux,2024-02-20
+C1058,Lille,27,Publicité en ligne,2023-10-23
+C1059,Lyon,18,Moteur de recherche,2024-08-30
+C1060,Bordeaux,33,Bouche-à-oreille,2022-07-13
+C1061,Nantes,42,Moteur de recherche,2024-11-21
+C1062,Bordeaux,32,Moteur de recherche,2023-09-02
+C1063,Lyon,61,Publicité en ligne,2023-03-25
+C1064,Lyon,38,Moteur de recherche,2022-10-08
+C1065,Bordeaux,53,Bouche-à-oreille,2024-03-26
+C1066,Bordeaux,35,Réseaux sociaux,2024-12-04
+C1067,Marseille,48,Bouche-à-oreille,2024-01-26
+C1068,Nantes,41,Publicité en ligne,2022-02-05
+C1069,Paris,54,Publicité en ligne,2023-05-29
+C1070,Nantes,39,Moteur de recherche,2024-03-12
+C1071,Paris,44,Publicité en ligne,2023-03-12
+C1072,Paris,36,Réseaux sociaux,2024-04-26
+C1073,Marseille,35,Publicité en ligne,2024-02-14
+C1074,Paris,37,Réseaux sociaux,2022-03-15
+C1075,Paris,59,Réseaux sociaux,2023-09-03
+C1076,Paris,35,Moteur de recherche,2022-07-08
+C1077,Marseille,37,Réseaux sociaux,2023-06-17
+C1078,Bordeaux,53,Moteur de recherche,2023-02-25
+C1079,Paris,52,Publicité en ligne,2024-06-02
+C1080,Lille,32,Réseaux sociaux,2024-08-08
+C1081,Bordeaux,18,Publicité en ligne,2023-05-21
+C1082,Paris,38,Réseaux sociaux,2023-08-12
+C1083,Paris,18,Publicité en ligne,2023-11-17
+C1084,Nantes,56,Publicité en ligne,2023-12-19
+C1085,Bordeaux,40,Moteur de recherche,2023-11-27
+C1086,Marseille,50,Publicité en ligne,2024-05-07
+C1087,Bordeaux,27,Bouche-à-oreille,2024-12-11
+C1088,Paris,19,Publicité en ligne,2024-06-25
+C1089,Lyon,41,Moteur de recherche,2022-05-28
+C1090,Lille,38,Moteur de recherche,2023-06-06
+C1091,Paris,32,Publicité en ligne,2023-05-21
+C1092,Bordeaux,33,Réseaux sociaux,2023-07-12
+C1093,Marseille,71,Publicité en ligne,2023-08-02
+C1094,Bordeaux,42,Réseaux sociaux,2024-02-26
+C1095,Marseille,51,Publicité en ligne,2023-04-07
+C1096,Lyon,42,Réseaux sociaux,2022-10-16
+C1097,Paris,50,Réseaux sociaux,2023-05-17
+C1098,Paris,36,Bouche-à-oreille,2024-07-24
+C1099,Bordeaux,18,Publicité en ligne,2022-12-08
+C1100,Paris,36,Bouche-à-oreille,2022-01-23
+C1101,Paris,48,Bouche-à-oreille,2024-12-05
+C1102,Paris,26,Moteur de recherche,2022-08-03
+C1103,Paris,30,Réseaux sociaux,2023-10-23
+C1104,Bordeaux,24,Réseaux sociaux,2024-05-26
+C1105,Lyon,56,Moteur de recherche,2022-10-28
+C1106,Strasbourg,41,Réseaux sociaux,2023-01-08
+C1107,Paris,46,Bouche-à-oreille,2022-11-04
+C1108,Lille,39,Réseaux sociaux,2022-06-14
+C1109,Marseille,32,Réseaux sociaux,2022-06-17
+C1110,Lyon,34,Réseaux sociaux,2022-07-24
+C1111,Nantes,18,Réseaux sociaux,2023-05-17
+C1112,Strasbourg,18,Réseaux sociaux,2023-08-05
+C1113,Nantes,40,Moteur de recherche,2022-01-18
+C1114,Paris,36,Réseaux sociaux,2024-07-15
+C1115,Paris,53,Moteur de recherche,2024-01-11
+C1116,Lille,57,Bouche-à-oreille,2022-03-19
+C1117,Paris,57,Moteur de recherche,2024-07-11
+C1118,Lille,26,Publicité en ligne,2022-02-03
+C1119,Toulouse,28,Réseaux sociaux,2023-09-06
+C1120,Toulouse,38,Réseaux sociaux,2023-05-25
+C1121,Bordeaux,62,Réseaux sociaux,2023-07-04
+C1122,Lille,56,Bouche-à-oreille,2024-11-13
+C1123,Paris,51,Moteur de recherche,2024-10-12
+C1124,Paris,27,Réseaux sociaux,2022-11-02
+C1125,Toulouse,27,Moteur de recherche,2023-09-27
+C1126,Marseille,47,Publicité en ligne,2024-11-16
+C1127,Paris,25,Moteur de recherche,2024-03-09
+C1128,Lyon,35,Moteur de recherche,2024-08-30
+C1129,Bordeaux,37,Bouche-à-oreille,2023-04-22
+C1130,Bordeaux,57,Moteur de recherche,2022-11-07
+C1131,Toulouse,34,Moteur de recherche,2023-07-14
+C1132,Lyon,18,Réseaux sociaux,2024-06-13
+C1133,Paris,38,Réseaux sociaux,2024-10-14
+C1134,Marseille,30,Bouche-à-oreille,2024-01-22
+C1135,Lyon,39,Moteur de recherche,2024-02-13
+C1136,Toulouse,37,Moteur de recherche,2023-07-15
+C1137,Lille,35,Moteur de recherche,2022-12-16
+C1138,Paris,41,Réseaux sociaux,2023-04-09
+C1139,Paris,20,Publicité en ligne,2023-06-29
+C1140,Paris,26,Réseaux sociaux,2024-06-11
+C1141,Nantes,46,Publicité en ligne,2023-09-01
+C1142,Toulouse,31,Moteur de recherche,2024-05-18
+C1143,Paris,18,Réseaux sociaux,2022-01-30
+C1144,Nantes,40,Réseaux sociaux,2024-04-08
+C1145,Marseille,51,Publicité en ligne,2023-07-10
+C1146,Marseille,31,Réseaux sociaux,2024-12-29
+C1147,Strasbourg,18,Réseaux sociaux,2023-06-01
+C1148,Paris,46,Publicité en ligne,2023-06-08
+C1149,Paris,18,Réseaux sociaux,2022-05-20
+C1150,Toulouse,42,Moteur de recherche,2024-06-02
+C1151,Paris,21,Réseaux sociaux,2024-02-08
+C1152,Lille,24,Publicité en ligne,2024-08-02
+C1153,Paris,27,Réseaux sociaux,2022-04-12
+C1154,Paris,30,Réseaux sociaux,2022-08-20
+C1155,Paris,24,Réseaux sociaux,2024-08-18
+C1156,Lyon,39,Réseaux sociaux,2022-02-16
+C1157,Paris,27,Réseaux sociaux,2023-07-11
+C1158,Paris,44,Réseaux sociaux,2023-03-20
+C1159,Nantes,35,Réseaux sociaux,2024-10-25
+C1160,Lyon,30,Moteur de recherche,2024-07-27
+C1161,Lyon,28,Publicité en ligne,2024-09-08
+C1162,Paris,18,Réseaux sociaux,2022-11-13
+C1163,Lyon,35,Réseaux sociaux,2023-10-06
+C1164,Paris,34,Bouche-à-oreille,2024-02-06
+C1165,Toulouse,18,Bouche-à-oreille,2024-11-25
+C1166,Paris,32,Moteur de recherche,2022-01-09
+C1167,Nantes,21,Réseaux sociaux,2024-12-05
+C1168,Strasbourg,57,Moteur de recherche,2023-01-25
+C1169,Paris,18,Réseaux sociaux,2022-05-21
+C1170,Paris,18,Réseaux sociaux,2023-11-05
+C1171,Paris,45,Réseaux sociaux,2024-05-05
+C1172,Toulouse,54,Moteur de recherche,2022-05-23
+C1173,Paris,23,Réseaux sociaux,2022-02-14
+C1174,Nantes,30,Moteur de recherche,2024-09-08
+C1175,Bordeaux,39,Réseaux sociaux,2024-10-19
+C1176,Bordeaux,18,Réseaux sociaux,2022-06-21
+C1177,Marseille,18,Publicité en ligne,2024-09-16
+C1178,Strasbourg,35,Publicité en ligne,2024-09-23
+C1179,Paris,51,Réseaux sociaux,2024-12-28
+C1180,Lyon,33,Moteur de recherche,2022-08-25
+C1181,Lyon,33,Réseaux sociaux,2023-09-26
+C1182,Strasbourg,46,Réseaux sociaux,2024-12-24
+C1183,Toulouse,63,Publicité en ligne,2024-09-15
+C1184,Bordeaux,25,Réseaux sociaux,2023-10-25
+C1185,Paris,38,Moteur de recherche,2022-08-04
+C1186,Strasbourg,60,Moteur de recherche,2022-04-03
+C1187,Marseille,18,Réseaux sociaux,2022-10-11
+C1188,Marseille,44,Réseaux sociaux,2022-03-13
+C1189,Strasbourg,20,Réseaux sociaux,2022-08-02
+C1190,Lyon,39,Bouche-à-oreille,2022-03-24
+C1191,Lyon,35,Moteur de recherche,2024-04-14
+C1192,Toulouse,27,Moteur de recherche,2023-10-08
+C1193,Paris,20,Réseaux sociaux,2023-07-22
+C1194,Lyon,41,Moteur de recherche,2024-06-05
+C1195,Paris,44,Réseaux sociaux,2023-03-26
+C1196,Paris,36,Moteur de recherche,2023-03-18
+C1197,Nantes,39,Publicité en ligne,2022-08-15
+C1198,Toulouse,45,Moteur de recherche,2023-05-03
+C1199,Lyon,20,Réseaux sociaux,2022-07-11
+C1200,Lyon,41,Réseaux sociaux,2023-10-08

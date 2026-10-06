@@ -1,0 +1,41 @@
+produit_id,nom_produit,categorie,prix_unitaire,cout_unitaire
+P001,Écouteurs sans fil,Électronique,253.32,210.76
+P002,Enceinte Bluetooth,Électronique,278.29,203.98
+P003,Montre connectée,Électronique,52.78,44.6
+P004,Chargeur rapide,Électronique,249.54,198.59
+P005,Clavier sans fil,Électronique,62.79,51.65
+P006,Tablette 10 pouces,Électronique,134.39,99.6
+P007,Liseuse numérique,Électronique,214.94,155.54
+P008,Lampe de bureau,Maison,55.45,32.88
+P009,Set de casseroles,Maison,66.35,39.67
+P010,Plaid en laine,Maison,93.11,51.44
+P011,Cafetière,Maison,86.29,50.4
+P012,Coussin déco,Maison,107.13,59.75
+P013,Boîtes de rangement,Maison,88.28,50.11
+P014,Bougie parfumée,Maison,57.74,30.7
+P015,T-shirt coton bio,Mode,32.74,14.03
+P016,Jean coupe droite,Mode,100.65,47.34
+P017,Sneakers,Mode,52.47,25.75
+P018,Veste légère,Mode,69.0,27.16
+P019,Écharpe,Mode,29.94,14.73
+P020,Sac à dos urbain,Mode,41.09,17.15
+P021,Casquette,Mode,65.27,27.6
+P022,Crème hydratante,Beauté,63.76,24.76
+P023,Sérum visage,Beauté,33.96,13.21
+P024,Parfum 50 ml,Beauté,53.73,20.89
+P025,Shampoing solide,Beauté,21.39,8.48
+P026,Palette maquillage,Beauté,60.72,22.37
+P027,Huile pour le corps,Beauté,55.25,22.98
+P028,Tapis de yoga,Sport,49.01,30.97
+P029,Haltères 2x5 kg,Sport,21.88,11.49
+P030,Gourde isotherme,Sport,66.81,36.85
+P031,Brassière sport,Sport,58.05,35.8
+P032,Corde à sauter,Sport,63.95,36.5
+P033,Sac de sport,Sport,57.53,32.24
+P034,Bandes élastiques,Sport,12.62,7.86
+P035,Roman policier,Livres,13.01,9.23
+P036,BD jeunesse,Livres,30.9,23.38
+P037,Livre de cuisine,Livres,8.63,5.83
+P038,Guide de voyage,Livres,15.22,10.13
+P039,Essai économie,Livres,22.6,15.64
+P040,Manga tome 1,Livres,25.6,18.32
